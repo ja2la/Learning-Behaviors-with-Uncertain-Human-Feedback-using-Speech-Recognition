@@ -1,5 +1,5 @@
 # University project
-Project based on hlhllh project on the paper "Learning Behaviors with Uncertain Human Feedback" : 
+Project based on hlhllh's project on the paper "Learning Behaviors with Uncertain Human Feedback" : 
 https://github.com/hlhllh/Learning-Behaviors-with-Uncertain-Human-Feedback.
 
 The aim is to develop an alternative approach for the integration of a human feedback by modifying an
