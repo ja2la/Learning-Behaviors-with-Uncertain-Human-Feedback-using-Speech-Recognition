@@ -9,9 +9,9 @@ We decided to replace keyboard pressing by Speech recognition as a feedback.
 
 # Required packages
 Scipy <br>
-Numpy
-SpeechRecognition
-PyAudio
+Numpy <br>
+SpeechRecognition <br>
+PyAudio <br>
 
 # How to run
 Install required packages and choose if you want to run hlhllh's original project or the one with Speech Recognition.
